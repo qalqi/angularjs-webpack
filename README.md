@@ -26,7 +26,7 @@ This workflow serves as a starting point for building AngularJS (1.x) applicatio
 $ git clone https://github.com/qalqi/angularjs-webpack.git myapp
 
 # change directory to your app
-$ cd my-app
+$ cd myapp
 
 # install the dependencies with npm
 $ npm install
